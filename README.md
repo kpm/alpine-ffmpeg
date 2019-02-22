@@ -4,4 +4,6 @@ Dockerfile that installs ffmpeg on alpine edge.
 
 Hosted at:
 
-https://store.docker.com/community/images/kristianp/alpine-ffmpeg
+https://hub.docker.com/r/kristianp/alpine-ffmpeg
+
+Which is automatically build from this repository.
